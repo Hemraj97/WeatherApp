@@ -1,0 +1,39 @@
+body {
+	background-image: url("DarkWood.jpg");
+	background-size:cover;
+
+}
+#forecast{
+	color:#00BFFF;
+    padding-top: 70px;
+    padding-right: 30px;
+    padding-left: 80px;
+}
+#weather{
+	font-size: 25px;
+}
+#imgdiv{
+	display: inline;
+	font-size: 50px;
+	white-space: nowrap;
+}
+#day11{
+	color:#00BFFF;
+	padding-left: 70px
+}
+#day22{
+	color:#00BFFF;
+}
+#day33{
+	color:#00BFFF;
+}
+#day44{
+	color:#00BFFF;
+	
+}
+#imgdiv0,#imgdiv1,#imgdiv2,#imgdiv3{
+	display: inline;
+	font-size: 30px;
+	white-space: nowrap;
+}
+
